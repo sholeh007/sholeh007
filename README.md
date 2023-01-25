@@ -1,4 +1,4 @@
-<h3 align="center">A passionate fullstack javascript developer from Indonesia</h3>
+<h3 align="center">A passionate self-taught developer from Indonesia</h3>
 
 - 🌱 I’m currently learning **react and express js**
 
